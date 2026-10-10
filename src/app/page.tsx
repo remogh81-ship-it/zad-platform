@@ -109,7 +109,7 @@ export default function LandingPage() {
                   <div className="flex justify-center gap-2 mb-4">
                     {[1,2,3,4,5].map(i => <Star key={i} className="w-6 h-6 text-amber-400 fill-amber-400" />)}
                   </div>
-                  <p className="text-sm font-bold text-slate-700">"أفضل قرار اتخذته لطفلي هذا العام"</p>
+                  <p className="text-sm font-bold text-slate-700">&quot;أفضل قرار اتخذته لطفلي هذا العام&quot;</p>
                   <p className="text-xs text-slate-400 mt-1">- أم أحمد</p>
                 </div>
               </div>
