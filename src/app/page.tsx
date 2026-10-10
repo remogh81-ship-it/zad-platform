@@ -5,12 +5,12 @@ import { motion } from 'framer-motion';
 import { BookOpen, Star, Users, Video, ShieldCheck, Sparkles, ArrowLeft, CheckCircle2, PlayCircle, Heart } from 'lucide-react';
 
 export default function LandingPage() {
-  const fadeIn = {
+  const fadeIn: any = {
     hidden: { opacity: 0, y: 30 },
     visible: { opacity: 1, y: 0, transition: { duration: 0.6, ease: "easeOut" } }
   };
 
-  const staggerContainer = {
+  const staggerContainer: any = {
     hidden: { opacity: 0 },
     visible: {
       opacity: 1,
