@@ -33,7 +33,7 @@ export default function LandingPage() {
             <span className="block text-emerald-600 xl:inline mt-2">أفضل المعلمين المتقنين</span>
           </h1>
           <p className="mt-5 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-8 md:text-xl md:max-w-3xl leading-relaxed">
-            منصة "زاد" توفر لك أفضل تجربة تعليمية عن بُعد بطريقة تفاعلية وممتعة للأطفال، وبأسعار لا تقبل المنافسة في العالم الإسلامي.
+            منصة &quot;زاد&quot; توفر لك أفضل تجربة تعليمية عن بُعد بطريقة تفاعلية وممتعة للأطفال، وبأسعار لا تقبل المنافسة في العالم الإسلامي.
           </p>
           <div className="mt-8 max-w-md mx-auto sm:flex sm:justify-center md:mt-10">
             <div className="rounded-full shadow-md">
